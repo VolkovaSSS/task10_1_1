@@ -1,1 +1,1 @@
-# test
+Print('Hi')
